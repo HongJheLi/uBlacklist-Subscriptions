@@ -25,3 +25,10 @@
 *://*.linkedin.com/*
 *://zh-hk.facebook.com/*
 *://*.chinatimes.com/*
+*://juejin.cn/*
+*://*.csdn.net/*
+*://*.jianshu.com/*
+*://*.cnblogs.com/*
+*://*.delftstack.com/*
+*://*.djangoproject.com/zh-hans/*
+*://*.tencent.com/*
