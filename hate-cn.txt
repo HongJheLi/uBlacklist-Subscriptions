@@ -10,6 +10,7 @@
 *://*.cnblogs.com/*
 *://*.csdn.net/*
 *://*.delftstack.com/*
+*://*.dict.cn/*
 *://*.diyifanwen.com/*
 *://*.djangoproject.com/zh-hans/*
 *://*.hao123-hao123.com/*
@@ -22,18 +23,21 @@
 *://*.linkedin.com/*
 *://*.maigoo.com/*
 *://*.mozilla.org/zh-CN/*
+*://*.mui.com/zh/*
 *://*.news.yahoo.com/*
 *://*.php.cn/*
 *://*.qiwangming.com/*
 *://*.qq.com/*
 *://*.ruancan.com/*
 *://*.runoob.com/*
+*://*.saoniuhuo.com/*
 *://*.sina.com.cn/*
 *://*.smzdm.com/*
 *://*.sohu.com/*
 *://*.talk.tw/*
 *://*.tao123.com.tw/*
 *://*.tencent.com/*
+*://*.tiangolo.com/zh/*
 *://*.w3cschool.cn/*
 *://*.w3school.com.cn/*
 *://*.weibo.com/*
@@ -42,7 +46,3 @@
 *://*.zhihu.com/*
 *://*.zol.com.cn/*
 *://zh-hk.facebook.com/*
-*://*.saoniuhuo.com/*
-*://*.dict.cn/*
-*://*.tiangolo.com/zh/*
-*://*.mui.com/zh/*
