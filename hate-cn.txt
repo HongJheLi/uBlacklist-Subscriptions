@@ -42,3 +42,7 @@
 *://*.zhihu.com/*
 *://*.zol.com.cn/*
 *://zh-hk.facebook.com/*
+*://*.saoniuhuo.com/*
+*://*.dict.cn/*
+*://*.tiangolo.com/zh/*
+*://*.mui.com/zh/*
