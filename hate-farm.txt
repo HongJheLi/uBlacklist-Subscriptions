@@ -1,0 +1,2 @@
+*://*.gotoformosa.com/*
+*://*.igotojapan.com/*
